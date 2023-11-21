@@ -1,7 +1,7 @@
 # 1. Two Sum
 ## Description
 
-Given an array of integers 'nums' and an integer 'target', return *indices of the two numbers such that they add up to 'target'.*
+Given an array of integers `nums` and an integer `target`, return *indices of the two numbers such that they add up to `target`.*
 
 You may assume that each input would have **exactly one solution**, and you may not use the same element twice.
 
@@ -26,6 +26,6 @@ Output: [0,1]
 
 ## My Solution
 
-My Solution is in the 'Solution.java' file and the result of my submission is the following:
+My Solution is in the `Solution.java` file and the result of my submission is the following:
 
 ![Submissionresults](assets/images/submission001_Java.png)
